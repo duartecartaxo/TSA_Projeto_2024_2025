@@ -2,12 +2,11 @@
 Repositório para o projeto da disciplina de Tecnologias de Automação e Scripting (TSA)
 
 ## Ideia geral do projeto
-Escrever a ideia geral do projeto...
+Ainda por descrever
 
 ### Autores
-Nome do aluno 1
-Nome do aluno 2
-
+Duarte Cartaxo
+João Silva
 
 
 ## Descrição da funcionalidade
