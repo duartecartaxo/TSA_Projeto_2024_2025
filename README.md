@@ -2,7 +2,7 @@
 Repositório para o projeto da disciplina de Tecnologias de Automação e Scripting (TSA)
 
 ## Ideia geral do projeto
-Ainda por descrever
+Simulação de um mini-torneio de futebol até 16 equipas, equipas aleatórias, com resultados aleatórios, onde cada equipa que perde é eliminada do torneio, o vencedor será a equipa que vencerá no jogo final do torneio.
 
 ### Autores
 Duarte Cartaxo
